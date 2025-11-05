@@ -3,22 +3,21 @@
 // put your custom CSS here!
 @font-face {
     font-family: "Test Die Grotesk B";
-    src: url('static/TestDieGrotesk-BBold.otf') format('otf');
+    src: url('/valeriepercussion-website/static/TestDieGrotesk-BBold.otf') format('otf');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Test Die Grotesk B";
-    src: url('static/TestDieGrotesk-BRegular.otf') format('otf');
-    src: local('static/TestDieGrotesk-BRegular.otf') format('otf');
+    src: url('/valeriepercussion-website/static/TestDieGrotesk-BRegular.otf') format('otf');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Test Die Grotesk B";
-    src: url('static/TestDieGrotesk-BItalic.otf') format('otf');
+    src: url('/valeriepercussion-website/static/TestDieGrotesk-BItalic.otf') format('otf');
     font-weight: 400;
     font-style: italic;
 }
