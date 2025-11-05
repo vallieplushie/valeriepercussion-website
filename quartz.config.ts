@@ -21,11 +21,11 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
-        header: "Test Die Grotesk B",
-        body: "Test Die Grotesk B",
-        code: "Source Sans Pro",
+        header: "Aileron",
+        body: "Aileron",
+        code: "Aileron",
       },
       colors: {
         lightMode: {
