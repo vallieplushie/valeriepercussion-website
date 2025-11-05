@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Test Die Grotesk B",
+        body: "Test Die Grotesk B",
+        code: "Source Sans Pro",
       },
       colors: {
         lightMode: {
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      //Plugin.CustomOgImages(),
     ],
   },
 }
