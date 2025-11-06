@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: false,
       typography: {
-        header: "Aileron",
-        body: "Aileron",
-        code: "Aileron",
+        header: "Roboto",
+        body: "Roboto",
+        code: "Roboto",
       },
       colors: {
         lightMode: {
